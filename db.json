@@ -1,0 +1,8 @@
+{
+  "code"      :200
+  "message"   :"success"
+  "broadcast" :{
+    "contact_name":"My Queen"
+    "message"     :"Example message"
+  }
+}
