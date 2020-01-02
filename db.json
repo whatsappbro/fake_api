@@ -1,7 +1,7 @@
 {
   "get": [
     {
-      "code": 200,
+      "code": "200",
       "message": "success"
       "broadcast": [
         {
