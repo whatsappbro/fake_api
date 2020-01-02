@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "get": [
     {
-      "id": 1,
-      "title": "hello"
+      "code": 200,
+      "message": "success"
+      "broadcast": {
+        "contact_name" : "My Queen"
+        "message" : "masak sonoh!"
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
