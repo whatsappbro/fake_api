@@ -2,7 +2,7 @@
   "get": [
     {
       "code": "200",
-      "message": "success"
+      "message": "success",
       "broadcast": [
         {
           "contact_name" : "My Queen",
