@@ -3,10 +3,12 @@
     {
       "code": 200,
       "message": "success"
-      "broadcast": {
-        "contact_name" : "My Queen"
-        "message" : "masak sonoh!"
-      }
+      "broadcast": [
+        {
+          "contact_name" : "My Queen"
+          "message" : "masak sonoh!"
+        }
+      ]
     }
   ]
 }
