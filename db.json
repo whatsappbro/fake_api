@@ -1,8 +1,11 @@
 {
-  "code"      :200
-  "message"   :"success"
-  "broadcast" :{
-    "contact_name":"My Queen"
-    "message"     :"Example message"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
