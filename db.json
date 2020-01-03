@@ -1,17 +1,16 @@
 {
-  "get":
-    {
-      "code": "200",
-      "message": "success",
-      "broadcast": [
-        {
-          "contact_name" : "My Queen",
-          "message" : "masak sonoh!"
-        },
-        {
-          "contact_name" : "My Queen",
-          "message" : "nyuci sonoh!"
-        }
+   "get":{
+      "code":"200",
+      "message":"success",
+      "broadcast":[
+         {
+            "contact_name":"My Queen",
+            "message":"masak sonoh!"
+         },
+         {
+            "contact_name":"My Queen",
+            "message":"nyuci sonoh!"
+         }
       ]
-    }
+   }
 }
